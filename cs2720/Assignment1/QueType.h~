@@ -1,0 +1,22 @@
+#include<iostream>
+#include<string>
+
+template<class ItemType>
+class QueueType{
+Public:
+QueueType(int i);
+~QueueType();
+void MakeEmpty();
+bool IsEmpty() const;
+bool IsFull() const;
+void Enqueue(ItemType);
+void Dequeue(ItemType&);
+Private:
+int front, rear;
+ItemType* items;
+int maxQue;
+};
+//#define SIZE 5
+//int arr[SIZE];
+//int front = -1;
+//int rear = -1;

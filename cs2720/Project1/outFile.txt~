@@ -1,0 +1,14 @@
+list is empty
+List is not full
+ for printlist Length = 1
+List Items: 10 
+ for printlist Length = 2
+List Items: 10 2 
+ for printlist Length = 0
+List Items: 
+list is empty
+ for printlist Length = 5
+List Items: 7 90 5 100 3 
+71007List is full
+ for printlist Length = 0
+List Items: 

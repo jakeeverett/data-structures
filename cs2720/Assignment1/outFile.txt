@@ -1,0 +1,13 @@
+ERROR: Tried to dequeue when no items in list
+7 is enqueued.
+9 is enqueued.
+12 is enqueued.
+20 is enqueued.
+Number of items in the Queue is: 4
+7 is dequeued.
+Number of items in the Queue is: 3
+9 is dequeued.
+12 is dequeued.
+20 is dequeued.
+ERROR: Tried to dequeue when no items in list
+Number of items in the Queue is: 0

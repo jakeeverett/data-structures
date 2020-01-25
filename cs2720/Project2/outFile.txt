@@ -1,0 +1,42 @@
+Testing getLenth()
+0
+Testing isEmpty()
+list is empty
+Testing putItem(5)
+Printing the list
+5 
+Testing putItem(7)
+Printing the list
+5 7 
+Testing putItem(6)
+Printing the list
+5 6 7 
+Testing putItem(9)
+Printing the list
+5 6 7 9 
+Testing putItem(1)
+Printing the list
+1 5 6 7 9 
+Testing isFull()
+List is not full
+Testing deleteItem(50)
+Testing deleteItem(5)
+Testing isFull()
+List is not full
+Testing deleteItem(1)
+Testing deleteItem(9)
+Printing the list
+6 7 
+Testing deleteItem(9)
+Testing putItem(7)
+Printing the list
+6 7 
+Testing makeEmpty()
+Printing the list
+
+Testing isEmpty()
+list is empty
+TESTING MERGE
+Test case 1: Merging two empty lists
+Expected output: Both lists are empty
+list1 after merge: list2 after merge: 

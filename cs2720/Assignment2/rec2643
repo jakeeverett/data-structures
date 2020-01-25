@@ -1,0 +1,17 @@
+Assignment2:
+total 280
+-rw-r--r-- 1 ugrad    222 Jul 10 12:16 inFile.txt
+-rw-r--r-- 1 ugrad     71 Jul  9 12:05 inFile.txt~
+-rwxr-xr-x 1 ugrad  89024 Jul 11 12:24 main
+-rw-r--r-- 1 ugrad    348 Jul  9 11:08 Makefile
+-rw-r--r-- 1 ugrad    424 Jul 10 12:14 #outFile.txt#
+-rw-r--r-- 1 ugrad    522 Jul 11 12:24 outFile.txt
+-rw-r--r-- 1 ugrad   3357 Jul 11 12:22 PriorityQueue.cpp
+-rw-r--r-- 1 ugrad   4373 Jul 10 12:30 PriorityQueueDr.cpp
+-rw-r--r-- 1 ugrad 113280 Jul 11 12:24 PriorityQueueDr.o
+-rw-r--r-- 1 ugrad   1240 Jul 10 12:24 PriorityQueue.h
+-rw-r--r-- 1 ugrad  35912 Jul 11 12:24 PriorityQueue.o
+-rw-r--r-- 1 ugrad    229 Jul 11 12:24 README.md
+-rw-r--r-- 1 ugrad     81 Jul 11 12:20 README.md~
+-rw-r--r-- 1 ugrad      0 Jul 11 12:25 rec2643
+/home/ugrads/everett/cs2720/Assignment2:/home/work/cs2720a

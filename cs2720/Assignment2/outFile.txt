@@ -1,0 +1,25 @@
+The queue is empty
+C is enqueued.
+D is enqueued.
+A is enqueued.
+B is enqueued.
+Queue: A 1 | C 2 | B 3 | D 4 | 
+A was dequeued.
+Queue: C 2 | B 3 | D 4 | 
+Priority of the front item is 2
+Front Item is C
+Number of items in the Queue is: 3
+C was dequeued.
+B was dequeued.
+Queue: D 4 | 
+ Queue is not empty
+D was dequeued.
+Empty Queue Exception thrown
+K is enqueued.
+G is enqueued.
+Queue: G 1 | K 4 | 
+Number of items in the Queue is: 2
+Queue: 
+Number of items in the Queue is: 0
+Queue is not full
+Empty Queue Exception thrown

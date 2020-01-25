@@ -1,0 +1,18 @@
+IsEmpty
+IsFull
+PutItem 81012 Eman
+PrintList
+PutItem 81001 John
+IsEmpty
+PrintList
+DeleteItem 810111 
+PrintList
+DeleteItem 81001
+PrintList
+IsFull
+GetAt 1
+GetLength
+MakeEmpty 
+IsEmpty
+GetLength
+Quit

@@ -1,0 +1,15 @@
+Jacob Everett
+811660133
+
+compiling:
+make
+
+Cleaning:
+make clean
+
+Running:
+./main
+
+***NOTE***
+for the Driver command file i Used one named
+intcommands.txt yours will need to be named the same.

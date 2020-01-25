@@ -1,0 +1,21 @@
+Assignment1:
+total 16600
+-rw-r--r-- 1 ugrad      116 Jul  5 09:59 intcommands.txt
+-rwxr-xr-x 1 ugrad    80135 Jul  8 10:51 main
+-rw-r--r-- 1 ugrad      268 Jul  5 09:42 Makefile
+-rw-r--r-- 1 ugrad      321 Jul  8 10:45 outFile.txt
+-rw-r--r-- 1 ugrad     2024 Jul  8 10:44 QueDr.cpp
+-rw-r--r-- 1 ugrad     1473 Jul  5 09:49 QueDr.cpp~
+-rw-r--r-- 1 ugrad    93520 Jul  8 10:51 QueDr.o
+-rw-r--r-- 1 ugrad     2182 Jul  8 10:51 QueType.cpp
+-rw-r--r-- 1 ugrad     1319 Jul  3 11:35 QueType.cpp~
+-rw-r--r-- 1 ugrad      509 Jul  5 10:18 QueType.h
+-rw-r--r-- 1 ugrad      356 Jul  3 10:59 QueType.h~
+-rw-r--r-- 1 ugrad 16728528 Jul  3 11:52 QueType.h.gch
+-rw-r--r-- 1 ugrad      116 Jul  8 10:45 QueType.in
+-rw-r--r-- 1 ugrad    35880 Jul  8 10:51 QueType.o
+-rw-r--r-- 1 ugrad      206 Jul  8 10:48 README.md
+-rw-r--r-- 1 ugrad      190 Jul  5 10:27 README.md~
+-rw-r--r-- 1 ugrad      911 Jul  5 10:27 rec46973
+-rw-r--r-- 1 ugrad        0 Jul  8 10:51 rec59835
+/home/ugrads/everett/cs2720/Assignment1:/home/work/cs2720a

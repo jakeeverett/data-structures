@@ -1,0 +1,13 @@
+Length = 0
+list is empty
+ for printlist Length = 4
+List Items: c f r l 
+ for printlist Length = 5
+List Items: c f r l i 
+List is full
+List is not full
+ for printlist Length = 1
+List Items: i 
+list is empty
+ for printlist Length = 0
+List Items: 

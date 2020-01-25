@@ -1,0 +1,89 @@
+#include<iostream>
+#include<string>
+#include "QueType.h"
+
+template<class ItemType>
+QueType<ItemType>::QueueType(int i){
+  SIZE = i;
+  ItemType arr[SIZE];
+  front = rear = -1;
+  
+//int arr[SIZE];
+//int front = -1;
+//int rear = -1;
+}
+
+template <class ItemType>
+QueType<ItemType>::QueueType(){
+  SIZE = 500;
+  int arr[SIZE];
+  front = rear = -1;
+}
+
+template <class ItemType>
+QueType<ItemType>::~QueueType(){
+
+}
+
+
+template <class ItemType>  
+void QueType<ItemType>::MakeEmpty(){
+
+}
+
+template <class ItemType>
+bool QueType<ItemType>::IsEmpty() const{
+}
+
+template <class ItemType>
+bool QueType<ItemType>::IsFull() const{
+  if(rear == SIZE-1){
+    cout << "Queue is full\n";
+    return true;
+  }
+  else{
+    return false;
+  }
+}
+
+template <class ItemType>
+void QueType<ItemType>::Enqueue(ItemType){
+  if(IsFull()){
+    return;
+  }
+  else{
+    if(front == -1){//case insert at front
+      front = 0;
+    }
+    rear++;
+    A[rear]=value;
+  }
+}
+
+template <class ItemType>
+void QueType<ItemType>::Dequeue(ItemType&){
+  if(IsEmpty()){
+    cout << "Queue is empty\n";
+  }
+  else{
+    if(front ==rear){//removing last item
+      front = rear = -1;
+    }
+    else{
+      front++;
+    }
+  }
+}
+
+  //int front, rear;
+  //ItemType* items;
+  //int maxQue;
+  
+  
+  
+  
+  
+//#define SIZE 5
+//int arr[SIZE];
+//int front = -1;
+//int rear = -1;

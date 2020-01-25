@@ -1,0 +1,10 @@
+IsEmpty
+InsertItem 5
+PrintList
+InsertItem 2
+InsertItem 1
+PrintList
+DeleteItem 7
+DeleteItem 10
+PrintList
+Quit

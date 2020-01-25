@@ -1,0 +1,9 @@
+Jacob Everett
+
+Compile:
+g++ UnsortedList.cpp -c
+g++ Student.cpp -c
+g++ UnsortedList.o Student.o UnsortedListDr.cpp -o main
+
+Running:
+./main

@@ -1,0 +1,14 @@
+Dequeue
+Enqueue 7
+Enqueue 9
+Enqueue 12
+Enqueue 20
+Length
+Dequeue
+Length
+Dequeue
+Dequeue
+Dequeue
+Dequeue
+Length
+Quit

@@ -1,0 +1,17 @@
+clist is empty
+List is not full
+ for printlist Length = 1
+List Items: Eman 81012 
+list is not empty
+ for printlist Length = 2
+List Items: Eman 81012 John 81001 
+Item not in list
+ for printlist Length = 2
+List Items: Eman 81012 John 81001 
+ for printlist Length = 1
+List Items: Eman 81012 
+List is not full
+index out of range
+Length = 1
+list is empty
+Length = 0

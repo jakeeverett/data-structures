@@ -1,0 +1,24 @@
+Project1:
+total 220
+-rw-r--r-- 1 ugrad    203 Jun 18 10:34 charcommands.txt
+-rw-r--r-- 1 ugrad    203 Jun 18 12:06 chcommands.txt
+-rw-r--r-- 1 ugrad    195 Jun 18 11:00 intcommands1.txt
+-rw-r--r-- 1 ugrad    254 Jun 18 11:27 intcommands.txt
+-rwxr-xr-x 1 ugrad 131208 Jun 19 12:01 main
+-rw-r--r-- 1 ugrad    415 Jun 19 11:05 Makefile
+-rw-r--r-- 1 ugrad    401 Jun 18 11:19 Makefile~
+-rw-r--r-- 1 ugrad    318 Jun 16 12:33 MAKEFILE~
+-rw-r--r-- 1 ugrad    361 Jun 18 12:07 #outFile.txt#
+-rw-r--r-- 1 ugrad    330 Jun 19 12:01 outFile.txt
+-rw-r--r-- 1 ugrad    279 Jun 18 11:40 outFile.txt~
+-rw-r--r-- 1 ugrad    506 Jun 19 11:22 README.md
+-rw-r--r-- 1 ugrad    147 Jun 16 12:57 README.md~
+-rw-r--r-- 1 ugrad      0 Jun 19 12:01 rec6222
+-rw-r--r-- 1 ugrad    195 Jun 18 12:06 studcommands.txt
+-rw-r--r-- 1 ugrad   1128 Jun 19 11:29 Student.cpp
+-rw-r--r-- 1 ugrad    612 Jun 17 12:59 Student.h
+-rw-r--r-- 1 ugrad   2529 Jun 19 11:51 UnsortedList.cpp
+-rw-r--r-- 1 ugrad   8228 Jun 19 11:58 UnsortedListDr.cpp
+-rw-r--r-- 1 ugrad   8002 Jun 19 11:09 UnsortedListDr.cpp~
+-rw-r--r-- 1 ugrad   1638 Jun 17 11:47 UnsortedList.h
+/home/ugrads/everett/cs2720/Project1:/home/work/cs2720a

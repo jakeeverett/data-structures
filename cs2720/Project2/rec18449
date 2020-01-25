@@ -1,0 +1,22 @@
+Project2:
+total 420
+-rw-r--r-- 1 ugrad    260 Jun 28 09:15 intcommands.txt
+-rw-r--r-- 1 ugrad    109 Jun 25 11:56 intcommands.txt~
+-rwxr-xr-x 1 ugrad 114315 Jun 28 09:35 main
+-rw-r--r-- 1 ugrad    395 Jun 25 11:58 Makefile
+-rw-r--r-- 1 ugrad    992 Jun 27 11:27 #outFile.txt#
+-rw-r--r-- 1 ugrad    606 Jun 28 09:53 outFile.txt
+-rw-r--r-- 1 ugrad     52 Jun 25 14:03 outFile.txt~
+-rw-r--r-- 1 ugrad    132 Jun 28 09:37 README.md
+-rw-r--r-- 1 ugrad     76 Jun 27 11:51 README.md~
+-rw-r--r-- 1 ugrad      0 Jun 28 09:54 rec18449
+-rw-r--r-- 1 ugrad   5314 Jun 28 09:34 SortedList.cpp
+-rw-r--r-- 1 ugrad  13729 Jun 28 09:32 sortedListDr.cpp
+-rw-r--r-- 1 ugrad   8273 Jun 25 10:43 sortedListDr.cpp~
+-rw-r--r-- 1 ugrad 105056 Jun 28 09:35 sortedListDr.o
+-rw-r--r-- 1 ugrad   3738 Jun 25 14:49 SortedList.h
+-rw-r--r-- 1 ugrad  35904 Jun 28 09:35 SortedList.o
+-rw-r--r-- 1 ugrad   1128 Jun 25 11:14 Student.cpp
+-rw-r--r-- 1 ugrad    612 Jun 25 11:14 Student.h
+-rw-r--r-- 1 ugrad  86800 Jun 28 09:35 Student.o
+/home/ugrads/everett/cs2720/Project2:/home/work/cs2720a

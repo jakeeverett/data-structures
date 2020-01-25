@@ -1,0 +1,12 @@
+Jacob Everett
+811660133
+
+compiling:
+make
+
+Cleaning:
+make clean
+
+Running:
+./main
+
